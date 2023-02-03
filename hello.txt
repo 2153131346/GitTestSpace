@@ -11,3 +11,4 @@ hello git! Today is study git again! master test
 hello git! Today is study git again! hot-fix mergin testst
 first yuancheng test aaaaabbbbbbbbbb!
 dd
+测试ssh免密登录推送代码到远程仓库
